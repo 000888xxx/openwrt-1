@@ -201,11 +201,11 @@
 };
 
 &gmac0 {
-	mtd-mac-address = <&art 0x1006>;
+	mtd-mac-address = <&art 0x5006>;
 };
 
 &gmac1 {
-	mtd-mac-address = <&art 0x5006>;
+	mtd-mac-address = <&art 0x1006>;
 };
 
 &nand {
